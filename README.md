@@ -1,5 +1,5 @@
 # C++
-#### Basic to advanced - DSA, OOPS, Modern c++, Leet Code Problems as well
+#### Basic to advanced - DSA, OOPS, Modern C++14/17, Leet Code Problems as well
 
 #### Let's see what it contains ->
 
