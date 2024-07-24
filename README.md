@@ -60,28 +60,31 @@ multiset has duplicate keys
 10.pair
 
 ### OOPS
-Class & Object
-Access Specifier
-Encapsulation
-Constructor
-this Pointer
-Copy Constructor
-Shallow vs Deep Copy
-Destructor
-Inheritance
-Mode of Inheritance
-Types of Inheritance
-Polymorphism
-Function Overloading
-Function Overriding
-Virtual Function 
-Abstraction
-Abstract Class
-Static Keyword
-virtual destrcutors - poly
 
-freind function 
-friend class
+# C++ Concepts
+
+1. **Class & Object**
+2. **Access Specifier**
+3. **Encapsulation**
+4. **Constructor**
+5. **this Pointer**
+6. **Copy Constructor**
+7. **Shallow vs Deep Copy**
+8. **Destructor**
+9. **Inheritance**
+10. **Mode of Inheritance**
+11. **Types of Inheritance**
+12. **Polymorphism**
+13. **Function Overloading**
+14. **Function Overriding**
+15. **Virtual Function**
+16. **Abstraction**
+17. **Abstract Class**
+18. **Static Keyword**
+19. **Virtual Destructors**
+20. **Friend Function**
+21. **Friend Class**
+
 
 ### LeetCode - C++
 Checkout Leetcode folder to find more!
