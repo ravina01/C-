@@ -26,7 +26,6 @@ int maxArea(vector<int>& nums)
         }
     }
     return area;
-
 }
 
 int main()

@@ -9,13 +9,12 @@ using namespace std;
 
 vector<vector<int>> threeSum(vector<int>& nums)
 {
-    // vector<vector<int>> res;
-    unordered_map<int, int> mp;
-    // unordered_set<vector<int>> set1;
     unordered_set<vector<int>> s;
+
 
     for(int i=0; i<nums.size()-1;i++)
     {
+        unordered_map<int, int> mp;
         for(int j=i+1; j<nums.size();j++)
         {
             int diff = -(nums[i]+nums[j]);
@@ -30,7 +29,7 @@ vector<vector<int>> threeSum(vector<int>& nums)
         mp[nums[i]] = i;
 
     }
-    return vector<vector<int>>(s);
+    return vector<vector<int>>(s.begin(), s.end());
 }
 int main()
 {
